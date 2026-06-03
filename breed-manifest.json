@@ -1,0 +1,255 @@
+{
+  "brand": "Family Dog Match",
+  "portraits": [
+    {
+      "slug": "labrador-retriever",
+      "name": "Labrador Retriever",
+      "image": "/dog-labrador-retriever.png"
+    },
+    {
+      "slug": "cavalier-king-charles-spaniel",
+      "name": "Cavalier King Charles Spaniel",
+      "image": "/dog-cavalier-king-charles-spaniel.png"
+    },
+    {
+      "slug": "whippet",
+      "name": "Whippet",
+      "image": "/dog-whippet.png"
+    },
+    {
+      "slug": "miniature-poodle",
+      "name": "Miniature Poodle",
+      "image": "/dog-miniature-poodle.png"
+    },
+    {
+      "slug": "cockapoo",
+      "name": "Cockapoo",
+      "image": "/dog-cockapoo.png"
+    },
+    {
+      "slug": "bichon-frise",
+      "name": "Bichon Frise",
+      "image": "/dog-bichon-frise.png"
+    },
+    {
+      "slug": "golden-retriever",
+      "name": "Golden Retriever",
+      "image": "/dog-golden-retriever.png"
+    },
+    {
+      "slug": "french-bulldog",
+      "name": "French Bulldog",
+      "image": "/dog-french-bulldog.png"
+    },
+    {
+      "slug": "border-collie",
+      "name": "Border Collie",
+      "image": "/dog-border-collie.png"
+    },
+    {
+      "slug": "german-shepherd",
+      "name": "German Shepherd",
+      "image": "/dog-german-shepherd.png"
+    },
+    {
+      "slug": "standard-poodle",
+      "name": "Standard Poodle",
+      "image": "/dog-standard-poodle.png"
+    },
+    {
+      "slug": "beagle",
+      "name": "Beagle",
+      "image": "/dog-beagle.png"
+    },
+    {
+      "slug": "pug",
+      "name": "Pug",
+      "image": "/dog-pug.png"
+    },
+    {
+      "slug": "shih-tzu",
+      "name": "Shih Tzu",
+      "image": "/dog-shih-tzu.png"
+    },
+    {
+      "slug": "boxer",
+      "name": "Boxer",
+      "image": "/dog-boxer.png"
+    },
+    {
+      "slug": "dachshund",
+      "name": "Dachshund",
+      "image": "/dog-dachshund.png"
+    },
+    {
+      "slug": "cocker-spaniel",
+      "name": "Cocker Spaniel",
+      "image": "/dog-cocker-spaniel.png"
+    },
+    {
+      "slug": "staffordshire-bull-terrier",
+      "name": "Staffordshire Bull Terrier",
+      "image": "/dog-staffordshire-bull-terrier.png"
+    },
+    {
+      "slug": "bernese-mountain-dog",
+      "name": "Bernese Mountain Dog",
+      "image": "/dog-bernese-mountain-dog.png"
+    },
+    {
+      "slug": "great-dane",
+      "name": "Great Dane",
+      "image": "/dog-great-dane.png"
+    },
+    {
+      "slug": "yorkshire-terrier",
+      "name": "Yorkshire Terrier",
+      "image": "/dog-yorkshire-terrier.png"
+    },
+    {
+      "slug": "australian-shepherd",
+      "name": "Australian Shepherd",
+      "image": "/dog-australian-shepherd.png"
+    },
+    {
+      "slug": "maltese",
+      "name": "Maltese",
+      "image": "/dog-maltese.png"
+    },
+    {
+      "slug": "greyhound",
+      "name": "Greyhound",
+      "image": "/dog-greyhound.png"
+    },
+    {
+      "slug": "shetland-sheepdog",
+      "name": "Shetland Sheepdog",
+      "image": "/dog-shetland-sheepdog.png"
+    },
+    {
+      "slug": "havanese",
+      "name": "Havanese",
+      "image": "/dog-havanese.png"
+    },
+    {
+      "slug": "vizsla",
+      "name": "Vizsla",
+      "image": "/dog-vizsla.png"
+    },
+    {
+      "slug": "rottweiler",
+      "name": "Rottweiler",
+      "image": "/dog-rottweiler.png"
+    },
+    {
+      "slug": "pembroke-welsh-corgi",
+      "name": "Pembroke Welsh Corgi",
+      "image": "/dog-pembroke-welsh-corgi.png"
+    },
+    {
+      "slug": "english-bulldog",
+      "name": "English Bulldog",
+      "image": "/dog-english-bulldog.png"
+    },
+    {
+      "slug": "australian-cattle-dog",
+      "name": "Australian Cattle Dog",
+      "image": "/dog-australian-cattle-dog.png"
+    },
+    {
+      "slug": "cane-corso",
+      "name": "Cane Corso",
+      "image": "/dog-cane-corso.png"
+    },
+    {
+      "slug": "newfoundland",
+      "name": "Newfoundland",
+      "image": "/dog-newfoundland.png"
+    },
+    {
+      "slug": "papillon",
+      "name": "Papillon",
+      "image": "/dog-papillon.png"
+    },
+    {
+      "slug": "labradoodle",
+      "name": "Labradoodle",
+      "image": "/dog-labradoodle.png"
+    },
+    {
+      "slug": "chihuahua",
+      "name": "Chihuahua",
+      "image": "/dog-chihuahua.png"
+    },
+    {
+      "slug": "saint-bernard",
+      "name": "Saint Bernard",
+      "image": "/dog-saint-bernard.png"
+    },
+    {
+      "slug": "miniature-schnauzer",
+      "name": "Miniature Schnauzer",
+      "image": "/dog-miniature-schnauzer.png"
+    },
+    {
+      "slug": "jack-russell-terrier",
+      "name": "Jack Russell Terrier",
+      "image": "/dog-jack-russell-terrier.png"
+    },
+    {
+      "slug": "springer-spaniel",
+      "name": "Springer Spaniel",
+      "image": "/dog-springer-spaniel.png"
+    },
+    {
+      "slug": "pomeranian",
+      "name": "Pomeranian",
+      "image": "/dog-pomeranian.png"
+    },
+    {
+      "slug": "doberman-pinscher",
+      "name": "Doberman Pinscher",
+      "image": "/dog-doberman-pinscher.png"
+    },
+    {
+      "slug": "west-highland-terrier",
+      "name": "West Highland Terrier",
+      "image": "/dog-west-highland-terrier.png"
+    },
+    {
+      "slug": "border-terrier",
+      "name": "Border Terrier",
+      "image": "/dog-border-terrier.png"
+    },
+    {
+      "slug": "english-setter",
+      "name": "English Setter",
+      "image": "/dog-english-setter.png"
+    },
+    {
+      "slug": "akita",
+      "name": "Akita",
+      "image": "/dog-akita.png"
+    },
+    {
+      "slug": "samoyed",
+      "name": "Samoyed",
+      "image": "/dog-samoyed.png"
+    },
+    {
+      "slug": "siberian-husky",
+      "name": "Siberian Husky",
+      "image": "/dog-siberian-husky.png"
+    },
+    {
+      "slug": "basset-hound",
+      "name": "Basset Hound",
+      "image": "/dog-basset-hound.png"
+    },
+    {
+      "slug": "portuguese-water-dog",
+      "name": "Portuguese Water Dog",
+      "image": "/dog-portuguese-water-dog.png"
+    }
+  ]
+}

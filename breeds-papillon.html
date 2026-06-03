@@ -5,6 +5,8 @@
 <meta property="og:title" content="Papillon — temperament, traits &amp; who it suits | Family Dog Match"><meta property="og:description" content="Papillon breed profile: A tiny genius with butterfly ears — one of the most trainable toy breeds. Surprisingly energetic and long-lived; a bit d See trait scores and whether it fits your lifestyle.">
 <meta property="og:type" content="website"><meta property="og:site_name" content="Family Dog Match">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="google-adsense-account" content="ca-pub-9479717535198089">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9479717535198089" crossorigin="anonymous"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,400..700&family=Hanken+Grotesk:wght@300..800&display=swap" rel="stylesheet">
 <style>:root{
@@ -787,13 +789,9 @@ function loadConsentedScripts(){
     window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
     gtag('js',new Date());gtag('config',window.GA_ID);
   }
-  // Google AdSense (set window.ADSENSE_CLIENT = 'ca-pub-XXXX' to enable)
-  if(window.ADSENSE_CLIENT && !window.__adsLoaded){
-    window.__adsLoaded=true;
-    const a=document.createElement('script');a.async=true;a.crossOrigin='anonymous';
-    a.src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client='+window.ADSENSE_CLIENT;
-    document.head.appendChild(a);
-  }
+  // AdSense loads in <head> on every page so Google can verify the site.
+  // EEA/UK personalised-ads consent is handled by Google's own certified
+  // CMP (enable it in AdSense > Privacy & messaging), not by this banner.
 }
 function setConsent(choice){
   safeSet('fdm_consent',choice);
